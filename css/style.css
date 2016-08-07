@@ -1,0 +1,57 @@
+body{
+  width: 100%;
+  height: auto;
+}
+a #logo{
+height: 100px;
+width: 100px;
+margin-top:0px;
+
+}
+
+#inputfill{
+width: 200px;
+}
+
+#mycarousel .item{
+        height: 400px;
+
+}
+#slide1{
+background: url('../image/slider11.jpg') top center no-repeat;
+}
+
+#slide2{
+background: url('../image/slider12.jpg') top center no-repeat;
+
+}
+#slide3{
+background: url('../image/slider13.jpg') top center no-repeat;
+
+}
+#slide4{
+background: url('../image/slider14.jpg') top center no-repeat;
+
+}
+#slide5{
+background: url('../image/slider15.jpg') top center no-repeat;
+
+}
+
+.col-md-12 h2{
+  text-align: center;
+}
+
+.panel img{
+height: 140px;
+width: :140px;
+}
+
+#copyright{
+text-align: center;
+font-size: 18px;
+
+
+
+
+}
